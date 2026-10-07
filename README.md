@@ -94,30 +94,12 @@ problem solving and building solutions for real-world use cases.
 
 ---
 
-## 🧠 Problem Solving
-
-<div align="center">
-
-### 🟠 260+ LeetCode Problems Solved
-
-**Patterns & Concepts**
-
-`Arrays` • `Hashing` • `Two Pointers` • `Sliding Window` • `Stack`
-
-`Binary Search` • `Linked List` • `Trees` • `Graphs` • `Heap`
-
-`Greedy` • `Dynamic Programming` • `Bit Manipulation`
-
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 <div align="center">
 
-**Artificial Intelligence** → **LLMs** → **AI Agents** → **Automation**  
-↓  
+**Artificial Intelligence** → **LLMs** → **AI Agents** → **Automation**
+
 **Full-Stack Development** → **Backend Engineering** → **System Design**
 
 </div>
@@ -133,10 +115,6 @@ src="https://github-readme-stats.vercel.app/api?username=karthik71005&show_icons
 
 <img height="170"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik71005&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=karthik71005&theme=tokyonight&hide_border=true"/>
 
 </div>
 
